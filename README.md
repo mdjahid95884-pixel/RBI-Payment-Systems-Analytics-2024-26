@@ -12,7 +12,7 @@ The project focuses on **UPI, RTGS, NEFT, and IMPS** transaction volume and tran
 - 🔄 **Power Query** – Data Transformation & Preparation
 - 📊 **Power BI** – Dashboard Development & Data Visualization
 - 🧮 **DAX** – KPIs, Measures & Calculations
-- 🗄️ **SQL** – Data Analysis & Querying
+- 🗄️ **Excel** – Data Analysis & Querying
 
 ## 📈 Dashboard Pages
 
